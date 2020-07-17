@@ -25,7 +25,7 @@ SECRET_KEY = '5ezy+bsmu)o-cr_!*i1zy6d_1)o0^#jnw!u#rhbsh7$32+u#*%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['novaquinmat.pythonanywhere.com']
 
 
 # Application definition
